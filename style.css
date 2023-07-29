@@ -1,0 +1,120 @@
+form {
+  position: relative;
+  left: 250px;
+  bottom: 40px;
+  margin: 3px;
+}
+button {
+  padding: 1px 10px;
+}
+h1 {
+  position: relative;
+  bottom: 50px;
+  font-size: 40px;
+  font-weight: 500;
+}
+h2 {
+  position: relative;
+  bottom: 50px;
+  left: 50px;
+  font-size: 50px;
+  font-weight: bold;
+}
+h3 {
+  position: relative;
+  bottom: 115px;
+  left: 133px;
+  font-size: 20px;
+  font-weight: 300;
+}
+p {
+  position: relative;
+  bottom: 20px;
+}
+#current-button {
+  position: relative;
+  left: 150px;
+}
+#first-symbol {
+  position: relative;
+  bottom: 95px;
+  left: 90px;
+}
+.water {
+  position: relative;
+  bottom: 80px;
+}
+.air {
+  position: relative;
+  bottom: 90px;
+}
+.card {
+  position: relative;
+  top: 80px;
+  display: block;
+  margin: 0 auto;
+  height: 420px;
+  line-height: 30px;
+  font-family: "Roboto Slab", serif;
+}
+.finder {
+  width: 280px;
+}
+
+.row {
+  position: relative;
+  top: 0;
+  left: 260px;
+}
+.date {
+  position: relative;
+  right: 10px;
+  bottom: 108px;
+  font-size: 18px;
+}
+.symbol {
+  position: relative;
+  bottom: 120px;
+  font-size: 16px;
+  font-weight: 150;
+  left: 100px;
+}
+.first-day {
+  position: relative;
+  left: 500px;
+  bottom: 400px;
+  font-size: 18px;
+  font-weight: 100;
+}
+.second-day {
+  position: relative;
+  left: 500px;
+  bottom: 400px;
+  font-size: 20px;
+  font-weight: 200;
+}
+.third-day {
+  position: relative;
+  left: 500px;
+  bottom: 400px;
+  font-size: 18px;
+  font-weight: 200;
+}
+.fourth-day {
+  position: relative;
+  left: 500px;
+  bottom: 400px;
+  font-size: 18px;
+  font-weight: 200;
+}
+.fifth-day {
+  position: relative;
+  left: 500px;
+  bottom: 400px;
+  font-size: 18px;
+  font-weight: 200;
+}
+.day-time {
+  position: relative;
+  bottom: 70px;
+}
